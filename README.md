@@ -19,8 +19,9 @@
 
 Frontend
 - HTML
-- CSS
+- CSS3
 - JavaScript
+- jQuery
 
 Backend
 - PHP
@@ -29,10 +30,10 @@ Database
 - MySQL
 
 Tools
+- XAMPP
 - Git
 - GitHub
-- XAMPP
-- Visual Studio Code
+- VS Code
 
 ---
 
